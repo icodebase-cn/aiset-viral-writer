@@ -1,0 +1,36 @@
+{
+  "name": "icodebase-skills",
+  "owner": {
+    "name": "icodebase-cn",
+    "url": "https://github.com/icodebase-cn"
+  },
+  "metadata": {
+    "description": "icodebase-cn 的中文写作 Skill 市场，收录终极爆款写作专家等 Skill。",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aiset-viral-writer",
+      "source": "./plugins/aiset-viral-writer",
+      "description": "终极爆款写作专家。融合大V战略方法论、活人感表达铁律、卡兹克实战技巧（HKR质检/五种原型/修辞库）、咪蒙爆款标题工业化A/B测试，以及严格的防封禁与反AI味红线。用于公众号文章、知乎回答、长文草稿与素材扩写。",
+      "version": "1.0.0",
+      "author": {
+        "name": "icodebase-cn",
+        "url": "https://github.com/icodebase-cn"
+      },
+      "homepage": "https://github.com/icodebase-cn/aiset-viral-writer",
+      "repository": "https://github.com/icodebase-cn/aiset-viral-writer",
+      "license": "MIT",
+      "category": "writing",
+      "keywords": [
+        "writing",
+        "chinese",
+        "viral",
+        "copywriting",
+        "公众号",
+        "爆款",
+        "反AI味"
+      ]
+    }
+  ]
+}
